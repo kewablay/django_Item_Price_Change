@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-jourp&ofgx#(2_6-pegg7q_#iu1a*pkf76tw(ppqi5u0#f23-6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
